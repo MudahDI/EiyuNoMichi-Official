@@ -1,61 +1,71 @@
+Eiyū no Michi
+
+An independent Android project for Suikoden II Recompiled.
+
+Eiyū no Michi aims to bring the recompiled version of Suikoden II to Android devices through a mobile-friendly application.
+
 <p align="center">
-  <img src="assets/logo/eiyu-no-michi-emblem.png" width="180">
-</p>
-# Eiyū no Michi
-## Screenshots
+  <img src="assets/logo/eiyu-no-michi-emblem.png" width="180" alt="Eiyū no Michi emblem">
+</p>Screenshots
 
-![Main Menu](assets/screenshots/main-menu.png)
+"Eiyū no Michi Main Menu" (assets/screenshots/main-menu.png)
 
-**An Android project for running a recompiled version of Suikoden II.**
+Project Status
 
-Eiyū no Michi is an independent Android application project built around the Suikoden II recompiled project. Its goal is to make the recompiled game usable on Android devices with a mobile-friendly interface and controls.
+The project has reached a stable testing stage.
 
-## Project status
+This repository serves as the official public information and documentation page for Eiyū no Michi.
 
-The project has a stable testing build. This public repository is currently for project information and documentation only.
+Public APK distribution is currently unavailable. Distribution requires further verification of third-party licenses and permissions.
 
-**Public APK distribution is not available from this repository.** Distribution will be considered only after the permissions and licensing of all included components have been reviewed.
+Project Highlights
 
-## Project highlights
-
-The Android project has been developed with a focus on:
-
+- Android application
 - Touchscreen controls
-- External controller support
-- Portrait and landscape display support
+- External game controller support
 - Save and memory-card functionality
-- Performance-focused settings
+- Performance-focused development
 
-Feature availability and behavior may differ between builds.
+Feature availability may vary depending on the build.
 
-## What you need
+Requirements
 
-- A compatible Android device
-- Game data that you are legally entitled to use
-- Any other files required by the underlying recompiled project
+- Compatible Android device
+- Legally obtained Suikoden II game data
+- Other files required by the underlying recompiled project
 
-This repository does not provide the original game, game assets, or console firmware.
+Original game files and console firmware are not included.
 
-## Installation
+Installation
 
-There are currently no public installation packages in this repository. Do not download unofficial copies claiming to be an official Eiyū no Michi release.
+No public installation package is currently provided.
 
-## Credits and licensing
+Please avoid unofficial downloads claiming to be official Eiyū no Michi releases.
 
-Eiyū no Michi uses or builds upon third-party projects and components. Their licenses remain applicable to those components; this repository does not relicense them.
+Credits and Licensing
 
-See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The dependency and notice inventory is not yet complete, so this file should be treated as an initial disclosure rather than a complete legal review.
+This project uses or builds upon third-party software.
 
-## Legal notice
+See "THIRD_PARTY_NOTICES.md" (THIRD_PARTY_NOTICES.md) for currently documented components and licensing information.
 
-Suikoden II and its associated intellectual property belong to their respective rights holders. Eiyū no Michi is an independent fan project and is not affiliated with, endorsed by, or sponsored by Konami.
+The dependency inventory is still incomplete.
 
-No original game data, game assets, or console firmware are intentionally distributed in this repository.
+Privacy
 
-## Repository contents
+See "PRIVACY.md" (PRIVACY.md) for the current privacy documentation status.
 
-This repository contains public-facing project information and documentation. Development source code and build inputs are maintained separately.
+Security
+
+See "SECURITY.md" (SECURITY.md) for security reporting guidance.
+
+Legal Notice
+
+Suikoden II and its associated intellectual property belong to their respective rights holders.
+
+Eiyū no Michi is an independent fan project and is not affiliated with, endorsed by, or sponsored by Konami.
+
+This repository does not intentionally distribute original game data, game assets, or console firmware.
 
 ---
 
-Made by **MudahDI**.
+Created by MudahDI.
