@@ -8,8 +8,9 @@ Eiyū no Michi aims to bring the recompiled version of Suikoden II to Android de
   <img src="assets/logo/eiyu-no-michi-emblem.png" width="180" alt="Eiyū no Michi emblem">
 </p>Screenshots
 
-"Eiyū no Michi Main Menu" (assets/screenshots/main-menu.png)
+## Screenshots
 
+![Eiyū no Michi Main Menu](assets/screenshots/main-menu.png)
 Project Status
 
 The project has reached a stable testing stage.
