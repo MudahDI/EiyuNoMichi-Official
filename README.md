@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="assets/logo/eiyu-no-michi-emblem.png" width="180">
+</p>
 # Eiyū no Michi
+## Screenshots
+
+![Main Menu](assets/screenshots/main-menu.png)
 
 **An Android project for running a recompiled version of Suikoden II.**
 
